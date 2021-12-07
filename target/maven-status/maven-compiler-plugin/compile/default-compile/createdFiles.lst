@@ -1,0 +1,10 @@
+com/currency/converter/exchangeapi/client/ExchangeAPIClient$ExchangeApiResult.class
+com/currency/converter/service/CurrencyExchangeResolverService.class
+com/currency/converter/EnvironmentVariables.class
+com/currency/converter/model/Currency.class
+com/currency/converter/exchangeapi/client/ExchangeAPIClient.class
+com/currency/converter/SwaggerConfiguration.class
+com/currency/converter/exchangeapi/client/ExchangeAPIClient$1.class
+com/currency/converter/controller/CurrencyConverter.class
+com/currency/converter/CurrencyConversionApplication.class
+com/currency/converter/TimeProvider.class

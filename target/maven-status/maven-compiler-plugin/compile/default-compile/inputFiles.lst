@@ -1,0 +1,8 @@
+/home/esujkma/Code/CurrencyConverter/src/main/java/com/currency/converter/CurrencyConversionApplication.java
+/home/esujkma/Code/CurrencyConverter/src/main/java/com/currency/converter/SwaggerConfiguration.java
+/home/esujkma/Code/CurrencyConverter/src/main/java/com/currency/converter/EnvironmentVariables.java
+/home/esujkma/Code/CurrencyConverter/src/main/java/com/currency/converter/model/Currency.java
+/home/esujkma/Code/CurrencyConverter/src/main/java/com/currency/converter/controller/CurrencyConverter.java
+/home/esujkma/Code/CurrencyConverter/src/main/java/com/currency/converter/service/CurrencyExchangeResolverService.java
+/home/esujkma/Code/CurrencyConverter/src/main/java/com/currency/converter/TimeProvider.java
+/home/esujkma/Code/CurrencyConverter/src/main/java/com/currency/converter/exchangeapi/client/ExchangeAPIClient.java
